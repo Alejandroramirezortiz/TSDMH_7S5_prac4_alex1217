@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TSDMH_7S5_Prac4_alejandro1217</string>
+
+    <!-- Pantalla 1 -->
+    <string name="p1titulo">Envio de parametros entre actividades</string>
+    <string name="p1bl1">Ingrese su nombre</string>
+    <string name="p1h1">Aqui tu nombre</string>
+    <string name="p1btn1">ENVIAR DATOS</string>
+
+    <!-- Pantalla 2 -->
+    <string name="p2titulo">Recepcion de informacion</string>
+    <string name="p2Lbl1">La informacion proporcionada es</string>
+
+</resources>
